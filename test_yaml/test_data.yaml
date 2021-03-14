@@ -1,0 +1,16 @@
+#用例1
+-
+  api_name: 网易163邮箱
+  api_requests:
+    url: https://www.163.com
+    method: get
+  api_validate:
+    - eq: {code: 900}
+#用例2
+-
+  api_name: 百度
+  api_requests:
+    url: https://www.baidu.com
+    method: get
+  api_validate:
+    - eq: {code: 200}

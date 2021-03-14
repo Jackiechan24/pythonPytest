@@ -1,0 +1,57 @@
+{
+  "uid" : "b8820ae504db5dbb",
+  "name" : "test_two2",
+  "fullName" : "testcase.test_two.Test_demo2#test_two2",
+  "historyId" : "b48fe3387e19db9dc8dba33dfebfce37",
+  "time" : {
+    "start" : 1615635255933,
+    "stop" : 1615635255933,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_two"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_demo2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IMJPCQ7"
+  }, {
+    "name" : "thread",
+    "value" : "18984-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_two"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "smoke2" ]
+  },
+  "source" : "b8820ae504db5dbb.json",
+  "parameterValues" : [ ]
+}
